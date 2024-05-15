@@ -92,7 +92,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 | 5/11/24  |  18:00   | IM     |building database and python interface                       | 01:00       |
 | 5/14/24  |  14:00   | IM     |building python interface and database features              | 01:30       |
 | 5/14/24  |  17:00   | IM     |fill out documentation paper and module results              | 00:30       |
-|          |          |        |Record and post video                                        |             |
+| 5/14/24  |  18:00   | IM     |Record and post video                                        | 00:30       |
 |          |          |        |                                                             |             |
 
 _Note: Add more rows as needed._
@@ -102,29 +102,32 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/NetherKing21/CourseTracker
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://www.youtube.com/watch?v=2wZZM6Sax3U
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  yes   |
+|Did you complete all the unique requirements for the module?|  yes   |
+|Did you write at least 100 lines of code?                   |  yes   |
+|Did you fully complete the readme.md file?                  |  yes   |
+|Did you put the readme.md file in GitHub in the top folder? |  yes   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+- I added a JOIN clause to the SQL query to add additional helpful information for the user.
 
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+- Originally I planned to add web scrapping into this project but after 2 hours of learning webscraping and trying to get it to work I decided to not include and leave it as feature for the future.
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|       10:00       |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+- My goal of using a 5 minute timer to get me started worked well when I didn't feel very motivated but I procrastinated a lot and that caused a lot of stress. Next sprint I want to improve by starting earlier.
 
